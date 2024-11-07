@@ -25,12 +25,12 @@ Project - Automation and Compilation of Links in HTML5
 - [GitHub Pages](https://pages.github.com/) (to host the site for free).
 
 ## Repository Folder Structure
-
+```
 html-link-generator/          # Repository  
 ├── index.html                # Main page  
 │── script.py                 # Script file  
 └── README.md
-
+```
 ## Note
 
 Since this is an initial, simplified, and experimental project, CSS3 was not included for styling and responsiveness.  
